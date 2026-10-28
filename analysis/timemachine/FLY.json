@@ -1,0 +1,16 @@
+{
+ "ticker": "FLY",
+ "data_symbol": "FLY",
+ "plan": {
+  "side": "LONG",
+  "entry": 34.67,
+  "current": 19.85,
+  "stop": 32.61,
+  "target": 46.3,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 10137,
+ "result": "already through the stop"
+}

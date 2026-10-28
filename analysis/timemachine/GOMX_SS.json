@@ -1,0 +1,16 @@
+{
+ "ticker": "GOMX SS",
+ "data_symbol": "GOMX.ST",
+ "plan": {
+  "side": "LONG",
+  "entry": 21.78,
+  "current": 12.51,
+  "stop": 20.44,
+  "target": 23.46,
+  "currency": "SEK"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 70972,
+ "result": "already through the stop"
+}

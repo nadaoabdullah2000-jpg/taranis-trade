@@ -1,0 +1,16 @@
+{
+ "ticker": "MAXQ CN",
+ "data_symbol": "MAXQ.NE",
+ "plan": {
+  "side": "LONG",
+  "entry": 0.53,
+  "current": 0.47,
+  "stop": 0.4908,
+  "target": 0.54,
+  "currency": "CAD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 55058,
+ "result": "already through the stop"
+}

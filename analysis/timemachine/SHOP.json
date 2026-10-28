@@ -1,0 +1,16 @@
+{
+ "ticker": "SHOP",
+ "data_symbol": "SHOP",
+ "plan": {
+  "side": "SHORT",
+  "entry": 124.06,
+  "current": 168.22,
+  "stop": 134.67,
+  "target": 124.03,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 44182,
+ "result": "already through the stop"
+}

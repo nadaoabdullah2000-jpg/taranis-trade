@@ -1,0 +1,16 @@
+{
+ "ticker": "ABNB",
+ "data_symbol": "ABNB",
+ "plan": {
+  "side": "SHORT",
+  "entry": 132.5,
+  "current": 166.04,
+  "stop": 139.3,
+  "target": 132.34,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 75485,
+ "result": "already through the stop"
+}

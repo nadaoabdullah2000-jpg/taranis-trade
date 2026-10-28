@@ -1,0 +1,16 @@
+{
+ "ticker": "EDR SM",
+ "data_symbol": "EDR.MC",
+ "plan": {
+  "side": "SHORT",
+  "entry": 4.45,
+  "current": 4.78,
+  "stop": 4.71,
+  "target": 4.38,
+  "currency": "EUR"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 76038,
+ "result": "already through the stop"
+}

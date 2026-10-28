@@ -1,0 +1,16 @@
+{
+ "ticker": "NYT",
+ "data_symbol": "NYT",
+ "plan": {
+  "side": "SHORT",
+  "entry": 65.62,
+  "current": 69.18,
+  "stop": 68.34,
+  "target": 63.05,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 41768,
+ "result": "already through the stop"
+}

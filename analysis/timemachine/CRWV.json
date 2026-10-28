@@ -1,0 +1,16 @@
+{
+ "ticker": "CRWV",
+ "data_symbol": "CRWV",
+ "plan": {
+  "side": "LONG",
+  "entry": 96.63,
+  "current": 63.93,
+  "stop": 87.77,
+  "target": 100.69,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 30947,
+ "result": "already through the stop"
+}

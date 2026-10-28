@@ -1,0 +1,16 @@
+{
+ "ticker": "PNG CN",
+ "data_symbol": "PNG.V",
+ "plan": {
+  "side": "LONG",
+  "entry": 5.78,
+  "current": 3.89,
+  "stop": 5.4,
+  "target": 6.0,
+  "currency": "CAD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 69673,
+ "result": "already through the stop"
+}

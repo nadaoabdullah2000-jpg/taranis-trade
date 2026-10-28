@@ -1,0 +1,16 @@
+{
+ "ticker": "SHAZ",
+ "data_symbol": "SHAZ",
+ "plan": {
+  "side": "LONG",
+  "entry": 45.19,
+  "current": 28.47,
+  "stop": 39.58,
+  "target": 60.74,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 176,
+ "seed": 6822,
+ "result": "already through the stop"
+}

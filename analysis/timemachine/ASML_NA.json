@@ -1,0 +1,16 @@
+{
+ "ticker": "ASML NA",
+ "data_symbol": "ASML.AS",
+ "plan": {
+  "side": "LONG",
+  "entry": 1623.76,
+  "current": 1489.6,
+  "stop": 1547.12,
+  "target": 1632.0,
+  "currency": "EUR"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 97210,
+ "result": "already through the stop"
+}

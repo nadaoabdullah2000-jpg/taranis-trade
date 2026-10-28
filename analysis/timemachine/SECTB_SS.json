@@ -1,0 +1,16 @@
+{
+ "ticker": "SECTB SS",
+ "data_symbol": "SECT-B.ST",
+ "plan": {
+  "side": "SHORT",
+  "entry": 183.11,
+  "current": 338.8,
+  "stop": 195.39,
+  "target": 176.0,
+  "currency": "SEK"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 85172,
+ "result": "already through the stop"
+}

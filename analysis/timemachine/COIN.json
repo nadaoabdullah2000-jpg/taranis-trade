@@ -1,0 +1,16 @@
+{
+ "ticker": "COIN",
+ "data_symbol": "COIN",
+ "plan": {
+  "side": "LONG",
+  "entry": 177.44,
+  "current": 162.32,
+  "stop": 162.95,
+  "target": 181.49,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 90921,
+ "result": "already through the stop"
+}

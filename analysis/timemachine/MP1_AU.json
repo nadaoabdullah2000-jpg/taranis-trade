@@ -1,0 +1,16 @@
+{
+ "ticker": "MP1 AU",
+ "data_symbol": "MP1.AX",
+ "plan": {
+  "side": "LONG",
+  "entry": 21.15,
+  "current": 18.48,
+  "stop": 19.16,
+  "target": 21.16,
+  "currency": "AUD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 41153,
+ "result": "already through the stop"
+}

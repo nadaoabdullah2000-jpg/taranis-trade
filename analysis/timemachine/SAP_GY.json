@@ -1,0 +1,16 @@
+{
+ "ticker": "SAP GY",
+ "data_symbol": "SAP.DE",
+ "plan": {
+  "side": "SHORT",
+  "entry": 158.96,
+  "current": 211.2,
+  "stop": 167.38,
+  "target": 147.6,
+  "currency": "EUR"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 4979,
+ "result": "already through the stop"
+}

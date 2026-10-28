@@ -1,0 +1,16 @@
+{
+ "ticker": "LFR PW",
+ "data_symbol": "LFR.WA",
+ "plan": {
+  "side": "LONG",
+  "entry": 75.0,
+  "current": 48.22,
+  "stop": 70.38,
+  "target": 83.1,
+  "currency": "PLN"
+ },
+ "horizon_days": 20,
+ "lookback_days": 87,
+ "seed": 16503,
+ "result": "already through the stop"
+}

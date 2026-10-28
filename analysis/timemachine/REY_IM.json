@@ -1,0 +1,16 @@
+{
+ "ticker": "REY IM",
+ "data_symbol": "REY.MI",
+ "plan": {
+  "side": "SHORT",
+  "entry": 93.37,
+  "current": 131.1,
+  "stop": 98.55,
+  "target": 93.3,
+  "currency": "EUR"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 60111,
+ "result": "already through the stop"
+}

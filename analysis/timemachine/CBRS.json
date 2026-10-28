@@ -1,0 +1,16 @@
+{
+ "ticker": "CBRS",
+ "data_symbol": "CBRS",
+ "plan": {
+  "side": "LONG",
+  "entry": 234.37,
+  "current": 112.56,
+  "stop": 217.2,
+  "target": 244.0,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 116,
+ "seed": 62713,
+ "result": "already through the stop"
+}

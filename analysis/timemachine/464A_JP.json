@@ -1,0 +1,16 @@
+{
+ "ticker": "464A JP",
+ "data_symbol": "464A.T",
+ "plan": {
+  "side": "LONG",
+  "entry": 2448.66,
+  "current": 1441.0,
+  "stop": 2334.26,
+  "target": 2698.0,
+  "currency": "JPY"
+ },
+ "horizon_days": 20,
+ "lookback_days": 243,
+ "seed": 8042,
+ "result": "already through the stop"
+}

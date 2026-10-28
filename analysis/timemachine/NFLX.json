@@ -1,0 +1,16 @@
+{
+ "ticker": "NFLX",
+ "data_symbol": "NFLX",
+ "plan": {
+  "side": "SHORT",
+  "entry": 83.17,
+  "current": 61.99,
+  "stop": 68.63,
+  "target": 77.0,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 73647,
+ "result": "target already reached"
+}

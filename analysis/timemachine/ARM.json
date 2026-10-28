@@ -1,0 +1,16 @@
+{
+ "ticker": "ARM",
+ "data_symbol": "ARM",
+ "plan": {
+  "side": "LONG",
+  "entry": 303.18,
+  "current": 235.9,
+  "stop": 281.51,
+  "target": 336.98,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 14878,
+ "result": "already through the stop"
+}

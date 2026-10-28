@@ -1,0 +1,84 @@
+ticker,name,side,entry,stop,target,seed,lookback_days,sim_target_first_pct,sim_stop_first_pct,sim_neither_pct,avg_result_R,median_end_price,hist_fires,hist_target,hist_stop,hist_neither,verdict
+NVDA,NVIDIA Corporation,LONG,195.57,207.45,216.83,57911,250,77.4,22.6,0.0,-0.084,216.38,230,182,48,0,unfavorable
+CRI PW,Creotech Instruments S.A.,LONG,496.37,804.56,887.0,52030,250,38.1,61.9,0.0,0.285,882.64,230,91,139,0,favorable
+SCW PW,Scanway S.A.,LONG,295.86,317.67,335.0,635,250,69.5,30.6,0.0,-0.16,348.08,230,159,71,0,unfavorable
+MSFT,Microsoft Corporation,LONG,428.99,527.2,551.15,76411,250,19.5,80.5,0.0,0.225,529.11,230,37,193,0,coin-flip
+9468 JP,Kadokawa Corporation,LONG,3353.6,3529.14,3668.0,51255,243,80.0,20.0,0.0,-0.073,3670.2,223,181,42,0,unfavorable
+AVGO,Broadcom Inc.,LONG,363.19,346.03,366.55,34053,250,31.1,68.9,0.0,0.104,350.16,230,63,167,0,coin-flip
+AMAT,"Applied Materials, Inc.",LONG,504.93,475.49,547.25,33854,250,,,,,,,,,,unfavorable
+MU,"Micron Technology, Inc.",LONG,688.87,956.48,1011.77,11244,250,48.5,51.4,0.0,0.003,1104.57,230,111,119,0,coin-flip
+AMZN,"Amazon.com, Inc.",LONG,246.54,253.62,258.08,68766,250,27.2,72.8,0.0,0.237,255.94,230,61,169,0,favorable
+ENX FP,Euronext N.V.,LONG,135.89,167.42,144.92,8878,250,,,,,,,,,,favorable
+HY9H GR,SK hynix Inc. (GDR),LONG,527.35,1014.75,1241.26,43712,245,19.2,80.7,0.1,1.861,1124.17,225,52,171,2,favorable
+CRDO,Credo Technology Group Holding Ltd,LONG,171.72,149.11,198.97,83793,250,52.8,45.4,1.8,0.09,174.21,230,105,122,3,coin-flip
+NBIS,Nebius Group N.V.,LONG,171.51,147.59,229.47,46590,250,42.3,42.6,15.1,0.156,186.42,230,90,99,41,favorable
+BE,Bloom Energy Corporation,LONG,235.7,206.12,253.31,2311,250,51.3,48.7,0.0,0.102,238.63,230,118,112,0,coin-flip
+GOOG,Alphabet Inc.,LONG,327.9,316.02,328.67,92092,250,46.8,53.2,0.0,0.009,324.73,230,108,122,0,coin-flip
+CRQ PW,Creotech Quantum S.A.,LONG,203.75,193.21,239.0,56270,137,19.0,80.8,0.2,-0.005,195.8,117,15,97,5,coin-flip
+AMD,"Advanced Micro Devices, Inc.",LONG,525.49,572.71,584.73,20612,250,37.5,62.5,0.0,-0.213,616.1,230,86,144,0,unfavorable
+HO FP,Thales S.A.,LONG,226.0,224.96,235.4,86281,250,82.2,17.8,0.0,-0.04,232.88,230,182,48,0,coin-flip
+3081 TT,LandMark Optoelectronics Corporation,LONG,2200.06,2538.78,2777.27,67170,243,35.2,64.8,0.0,1.036,3011.03,223,85,138,0,favorable
+ASML NA,ASML Holding N.V.,LONG,1623.76,1547.12,1632.0,97210,250,,,,,,,,,,unfavorable
+LITE,Lumentum Holdings Inc.,LONG,851.87,863.94,925.5,31865,250,65.2,34.8,0.0,-0.198,1029.65,230,150,80,0,unfavorable
+009150 KS,"Samsung Electro-Mechanics Co., Ltd.",LONG,1465682.88,1320260.5,1475000.0,25759,245,,,,,,,,,,unfavorable
+OHB GY,OHB SE,LONG,244.46,223.44,265.0,12982,250,87.2,12.8,0.0,-0.009,279.01,230,199,29,2,coin-flip
+COIN,"Coinbase Global, Inc.",LONG,177.44,162.95,181.49,90921,250,,,,,,,,,,unfavorable
+PNG CN,Kraken Robotics Inc.,LONG,5.78,5.4,6.0,69673,250,,,,,,,,,,unfavorable
+SHAZ,SharonAI Holdings Inc.,LONG,45.19,39.58,60.74,6822,176,,,,,,,,,,unfavorable
+347700 KS,Life Semantics Corp,LONG,30926.53,28005.1,45300.0,24528,245,,,,,,,,,,unfavorable
+ARM,Arm Holdings plc,LONG,303.18,281.51,336.98,14878,250,,,,,,,,,,unfavorable
+MP1 AU,Megaport Limited,LONG,21.15,19.16,21.16,41153,250,,,,,,,,,,unfavorable
+MAXQ CN,Maritime Launch Services Inc.,LONG,0.53,0.4908,0.54,55058,250,,,,,,,,,,unfavorable
+HPE,Hewlett Packard Enterprise Company,LONG,71.64,66.41,73.56,81473,250,,,,,,,,,,unfavorable
+9880 HK,Ubtech Robotics Corp Ltd,LONG,87.99,81.04,89.0,42668,246,,,,,,,,,,unfavorable
+290A JP,Synspective Inc.,LONG,1355.89,1253.87,1363.0,69957,243,,,,,,,,,,unfavorable
+186A JP,Astroscale Holdings Inc.,LONG,1028.27,1105.31,1194.0,64605,243,30.6,69.4,0.0,0.38,1158.45,223,70,153,0,favorable
+CRWV,"CoreWeave, Inc.",LONG,96.63,87.77,100.69,30947,250,,,,,,,,,,unfavorable
+CBRS,Cerebras Systems Inc.,LONG,234.37,217.2,244.0,62713,116,,,,,,,,,,unfavorable
+GOMX SS,GomSpace Group AB (publ),LONG,21.78,20.44,23.46,70972,250,,,,,,,,,,unfavorable
+FLY,Firefly Aerospace Inc.,LONG,34.67,32.61,46.3,10137,250,,,,,,,,,,unfavorable
+PRIUA CP,Primoco UAV SE,LONG,824.47,794.29,828.0,82500,249,,,,,,,,,,unfavorable
+464A JP,QPS Holdings Inc.,LONG,2448.66,2334.26,2698.0,8042,243,,,,,,,,,,unfavorable
+3661 TT,"Alchip Technologies, Limited",LONG,3313.65,3787.6,3825.0,89406,243,32.9,67.1,0.0,-0.007,3879.7,223,73,150,0,coin-flip
+GNS PW,Niewiadów Polska Grupa Militarna S.A.,LONG,16.67,15.78,17.5,69840,250,30.9,69.1,0.0,0.023,16.33,230,72,158,0,coin-flip
+462350 KS,Innospace Co Ltd,LONG,13311.03,12599.55,13583.33,4325,245,,,,,,,,,,unfavorable
+LFR PW,LFR C.XNCO PLN,LONG,75.0,70.38,83.1,16503,87,,,,,,,,,,unfavorable
+KEBNIB SS,KebNi AB (publ),LONG,1.55,1.4804,1.638,74246,250,,,,,,,,,,unfavorable
+100 HK,MiniMax Group Inc.,LONG,777.97,745.52,875.0,70361,197,,,,,,,,,,unfavorable
+TEAM,Atlassian Corporation,SHORT,158.87,171.97,158.04,73355,250,,,,,,,,,,unfavorable
+VEEV,Veeva Systems Inc.,SHORT,183.23,197.36,179.25,57832,250,,,,,,,,,,unfavorable
+REY IM,Reply S.p.A.,SHORT,93.37,98.55,93.3,60111,250,,,,,,,,,,unfavorable
+SAP GY,SAP SE,SHORT,158.96,167.38,147.6,4979,250,,,,,,,,,,unfavorable
+SHOP,Shopify Inc.,SHORT,124.06,134.67,124.03,44182,250,,,,,,,,,,unfavorable
+EDR SM,eDreams ODIGEO S.A.,SHORT,4.45,4.71,4.38,76038,250,,,,,,,,,,unfavorable
+DUOL,"Duolingo, Inc.",SHORT,132.82,143.15,117.21,59772,250,31.2,65.8,2.9,0.07,129.17,230,56,164,10,coin-flip
+GWRE,"Guidewire Software, Inc.",SHORT,129.56,141.93,126.08,6244,250,,,,,,,,,,unfavorable
+FIG,"Figma, Inc.",SHORT,21.17,22.94,21.09,68895,250,,,,,,,,,,unfavorable
+NYT,The New York Times Company,SHORT,65.62,68.34,63.05,41768,250,,,,,,,,,,unfavorable
+AAPL,Apple Inc.,SHORT,287.95,297.2,287.38,94812,250,,,,,,,,,,unfavorable
+ABNB,"Airbnb, Inc.",SHORT,132.5,139.3,132.34,75485,250,,,,,,,,,,unfavorable
+REA AU,REA Group Limited,SHORT,142.12,149.63,131.07,24929,250,,,,,,,,,,unfavorable
+BSY,"Bentley Systems, Incorporated",SHORT,32.9,34.65,32.0,42267,250,,,,,,,,,,unfavorable
+DKNG,DraftKings Inc.,SHORT,22.42,23.86,18.52,51503,250,58.4,18.8,22.8,0.062,19.72,230,131,47,52,favorable
+9684 JP,"Square Enix Holdings Co., Ltd.",SHORT,2539.95,2655.63,2468.0,9893,243,,,,,,,,,,unfavorable
+WIX,Wix.com Ltd.,SHORT,58.48,64.86,51.6,91917,250,,,,,,,,,,unfavorable
+ADYEN NA,Adyen N.V.,SHORT,937.15,914.31,807.5,95797,250,90.2,9.0,0.8,0.005,789.05,230,208,16,6,coin-flip
+OWL,Blue Owl Capital Inc.,SHORT,10.13,9.8,9.22,43079,250,26.2,73.9,0.0,0.167,9.27,230,61,169,0,coin-flip
+MELI,"MercadoLibre, Inc.",SHORT,1776.7,1828.49,1668.44,20938,250,94.8,5.1,0.0,-0.023,1631.15,230,219,10,1,coin-flip
+RKLB,Rocket Lab Corporation,SHORT,66.52,62.31,58.2,75489,250,70.8,29.2,0.0,-0.216,58.32,230,162,68,0,unfavorable
+GTLB,GitLab Inc.,SHORT,40.47,44.1,40.14,91425,250,,,,,,,,,,unfavorable
+SOUN,"SoundHound AI, Inc.",SHORT,7.35,5.06,4.39,43979,250,93.4,6.6,0.0,0.009,3.96,230,217,13,0,coin-flip
+TTWO,"Take-Two Interactive Software, Inc.",SHORT,229.43,206.16,188.65,20055,250,64.3,34.8,0.8,0.043,191.14,230,140,79,11,coin-flip
+BSP,Bending Spoons S.p.A.,SHORT,34.98,41.44,32.0,85631,84,,,,,,,,,,unfavorable
+VRT,Vertiv Holdings Co,SHORT,245.01,261.46,238.3,37867,250,72.6,27.4,0.0,-0.093,247.31,230,165,65,0,unfavorable
+MBLY,Mobileye Global Inc.,SHORT,9.5,7.21,7.05,21387,250,52.8,47.2,0.0,-0.437,6.74,230,124,106,0,unfavorable
+HFG GY,HelloFresh SE,SHORT,4.13,2.8,2.61,97245,250,9.6,90.4,0.0,0.83,2.59,230,28,202,0,coin-flip
+SECTB SS,Sectra AB (publ),SHORT,183.11,195.39,176.0,85172,250,,,,,,,,,,unfavorable
+PME AU,Pro Medicus Limited,SHORT,123.79,134.18,119.24,1500,250,,,,,,,,,,unfavorable
+TMUS,"T-Mobile US, Inc.",SHORT,152.32,158.24,147.9,91781,250,93.0,6.9,0.0,-0.053,144.93,230,216,14,0,unfavorable
+CSGP,"CoStar Group, Inc.",SHORT,38.57,30.97,26.68,82928,250,86.2,12.0,1.8,0.089,25.72,230,211,15,4,favorable
+ASTS,"AST SpaceMobile, Inc.",SHORT,59.4,48.86,47.64,83763,250,,,,,,,,,,favorable
+COHR,Coherent Corp.,SHORT,265.4,275.82,230.2,73159,250,73.9,26.2,0.0,-0.07,251.99,230,171,59,0,unfavorable
+NFLX,"Netflix, Inc.",SHORT,83.17,68.63,77.0,73647,250,,,,,,,,,,favorable
+STX,Seagate Technology Holdings plc,SHORT,846.85,748.24,695.14,63149,250,75.1,24.9,0.0,-0.207,753.66,230,164,66,0,unfavorable
+WULF,TeraWulf Inc.,SHORT,10.49,12.18,10.47,92080,250,,,,,,,,,,unfavorable

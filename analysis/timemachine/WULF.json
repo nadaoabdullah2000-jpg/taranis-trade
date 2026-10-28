@@ -1,0 +1,16 @@
+{
+ "ticker": "WULF",
+ "data_symbol": "WULF",
+ "plan": {
+  "side": "SHORT",
+  "entry": 10.49,
+  "current": 13.42,
+  "stop": 12.18,
+  "target": 10.47,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 92080,
+ "result": "already through the stop"
+}

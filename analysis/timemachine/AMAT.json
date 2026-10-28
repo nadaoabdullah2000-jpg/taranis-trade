@@ -1,0 +1,16 @@
+{
+ "ticker": "AMAT",
+ "data_symbol": "AMAT",
+ "plan": {
+  "side": "LONG",
+  "entry": 504.93,
+  "current": 416.0,
+  "stop": 475.49,
+  "target": 547.25,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 33854,
+ "result": "already through the stop"
+}

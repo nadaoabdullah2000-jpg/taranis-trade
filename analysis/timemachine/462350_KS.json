@@ -1,0 +1,16 @@
+{
+ "ticker": "462350 KS",
+ "data_symbol": "462350.KS",
+ "plan": {
+  "side": "LONG",
+  "entry": 13311.03,
+  "current": 5020.0,
+  "stop": 12599.55,
+  "target": 13583.33,
+  "currency": "KRW"
+ },
+ "horizon_days": 20,
+ "lookback_days": 245,
+ "seed": 4325,
+ "result": "already through the stop"
+}

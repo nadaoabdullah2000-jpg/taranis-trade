@@ -1,0 +1,16 @@
+{
+ "ticker": "ENX FP",
+ "data_symbol": "ENX.PA",
+ "plan": {
+  "side": "LONG",
+  "entry": 135.89,
+  "current": 176.1,
+  "stop": 167.42,
+  "target": 144.92,
+  "currency": "EUR"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 8878,
+ "result": "target already reached"
+}

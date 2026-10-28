@@ -1,0 +1,16 @@
+{
+ "ticker": "PRIUA CP",
+ "data_symbol": "PRIUA.PR",
+ "plan": {
+  "side": "LONG",
+  "entry": 824.47,
+  "current": 640.0,
+  "stop": 794.29,
+  "target": 828.0,
+  "currency": "CZK"
+ },
+ "horizon_days": 20,
+ "lookback_days": 249,
+ "seed": 82500,
+ "result": "already through the stop"
+}

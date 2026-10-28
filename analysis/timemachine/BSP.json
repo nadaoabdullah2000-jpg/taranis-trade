@@ -1,0 +1,16 @@
+{
+ "ticker": "BSP",
+ "data_symbol": "BSP",
+ "plan": {
+  "side": "SHORT",
+  "entry": 34.98,
+  "current": 47.02,
+  "stop": 41.44,
+  "target": 32.0,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 84,
+ "seed": 85631,
+ "result": "already through the stop"
+}

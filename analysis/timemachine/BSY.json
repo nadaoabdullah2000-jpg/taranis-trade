@@ -1,0 +1,16 @@
+{
+ "ticker": "BSY",
+ "data_symbol": "BSY",
+ "plan": {
+  "side": "SHORT",
+  "entry": 32.9,
+  "current": 39.43,
+  "stop": 34.65,
+  "target": 32.0,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 42267,
+ "result": "already through the stop"
+}

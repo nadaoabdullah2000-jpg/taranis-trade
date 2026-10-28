@@ -1,0 +1,16 @@
+{
+ "ticker": "290A JP",
+ "data_symbol": "290A.T",
+ "plan": {
+  "side": "LONG",
+  "entry": 1355.89,
+  "current": 1230.0,
+  "stop": 1253.87,
+  "target": 1363.0,
+  "currency": "JPY"
+ },
+ "horizon_days": 20,
+ "lookback_days": 243,
+ "seed": 69957,
+ "result": "already through the stop"
+}

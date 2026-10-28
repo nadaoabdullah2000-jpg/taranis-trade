@@ -1,0 +1,16 @@
+{
+ "ticker": "9880 HK",
+ "data_symbol": "9880.HK",
+ "plan": {
+  "side": "LONG",
+  "entry": 87.99,
+  "current": 69.1,
+  "stop": 81.04,
+  "target": 89.0,
+  "currency": "HKD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 246,
+ "seed": 42668,
+ "result": "already through the stop"
+}

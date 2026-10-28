@@ -1,0 +1,16 @@
+{
+ "ticker": "GTLB",
+ "data_symbol": "GTLB",
+ "plan": {
+  "side": "SHORT",
+  "entry": 40.47,
+  "current": 57.97,
+  "stop": 44.1,
+  "target": 40.14,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 91425,
+ "result": "already through the stop"
+}

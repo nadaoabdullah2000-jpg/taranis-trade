@@ -1,0 +1,16 @@
+{
+ "ticker": "HPE",
+ "data_symbol": "HPE",
+ "plan": {
+  "side": "LONG",
+  "entry": 71.64,
+  "current": 60.33,
+  "stop": 66.41,
+  "target": 73.56,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 81473,
+ "result": "already through the stop"
+}

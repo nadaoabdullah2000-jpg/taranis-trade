@@ -1,0 +1,16 @@
+{
+ "ticker": "AAPL",
+ "data_symbol": "AAPL",
+ "plan": {
+  "side": "SHORT",
+  "entry": 287.95,
+  "current": 343.83,
+  "stop": 297.2,
+  "target": 287.38,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 94812,
+ "result": "already through the stop"
+}

@@ -1,0 +1,16 @@
+{
+ "ticker": "REA AU",
+ "data_symbol": "REA.AX",
+ "plan": {
+  "side": "SHORT",
+  "entry": 142.12,
+  "current": 158.16,
+  "stop": 149.63,
+  "target": 131.07,
+  "currency": "AUD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 24929,
+ "result": "already through the stop"
+}

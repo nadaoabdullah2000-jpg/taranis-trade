@@ -1,0 +1,16 @@
+{
+ "ticker": "009150 KS",
+ "data_symbol": "009150.KS",
+ "plan": {
+  "side": "LONG",
+  "entry": 1465682.88,
+  "current": 1306000.0,
+  "stop": 1320260.5,
+  "target": 1475000.0,
+  "currency": "KRW"
+ },
+ "horizon_days": 20,
+ "lookback_days": 245,
+ "seed": 25759,
+ "result": "already through the stop"
+}

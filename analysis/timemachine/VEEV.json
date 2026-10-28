@@ -1,0 +1,16 @@
+{
+ "ticker": "VEEV",
+ "data_symbol": "VEEV",
+ "plan": {
+  "side": "SHORT",
+  "entry": 183.23,
+  "current": 317.82,
+  "stop": 197.36,
+  "target": 179.25,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 57832,
+ "result": "already through the stop"
+}

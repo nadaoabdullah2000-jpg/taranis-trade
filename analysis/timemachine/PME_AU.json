@@ -1,0 +1,16 @@
+{
+ "ticker": "PME AU",
+ "data_symbol": "PME.AX",
+ "plan": {
+  "side": "SHORT",
+  "entry": 123.79,
+  "current": 196.0,
+  "stop": 134.18,
+  "target": 119.24,
+  "currency": "AUD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 1500,
+ "result": "already through the stop"
+}

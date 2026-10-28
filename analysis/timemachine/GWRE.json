@@ -1,0 +1,16 @@
+{
+ "ticker": "GWRE",
+ "data_symbol": "GWRE",
+ "plan": {
+  "side": "SHORT",
+  "entry": 129.56,
+  "current": 166.92,
+  "stop": 141.93,
+  "target": 126.08,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 6244,
+ "result": "already through the stop"
+}

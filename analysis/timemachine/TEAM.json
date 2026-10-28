@@ -1,0 +1,16 @@
+{
+ "ticker": "TEAM",
+ "data_symbol": "TEAM",
+ "plan": {
+  "side": "SHORT",
+  "entry": 158.87,
+  "current": 220.12,
+  "stop": 171.97,
+  "target": 158.04,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 73355,
+ "result": "already through the stop"
+}

@@ -1,0 +1,16 @@
+{
+ "ticker": "347700 KS",
+ "data_symbol": "347700.KS",
+ "plan": {
+  "side": "LONG",
+  "entry": 30926.53,
+  "current": 20750.0,
+  "stop": 28005.1,
+  "target": 45300.0,
+  "currency": "KRW"
+ },
+ "horizon_days": 20,
+ "lookback_days": 245,
+ "seed": 24528,
+ "result": "already through the stop"
+}

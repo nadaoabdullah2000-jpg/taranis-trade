@@ -1,0 +1,16 @@
+{
+ "ticker": "KEBNIB SS",
+ "data_symbol": "KEBNI-B.ST",
+ "plan": {
+  "side": "LONG",
+  "entry": 1.55,
+  "current": 0.62,
+  "stop": 1.4804,
+  "target": 1.638,
+  "currency": "SEK"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 74246,
+ "result": "already through the stop"
+}

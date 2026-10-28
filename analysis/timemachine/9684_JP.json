@@ -1,0 +1,16 @@
+{
+ "ticker": "9684 JP",
+ "data_symbol": "9684.T",
+ "plan": {
+  "side": "SHORT",
+  "entry": 2539.95,
+  "current": 2923.5,
+  "stop": 2655.63,
+  "target": 2468.0,
+  "currency": "JPY"
+ },
+ "horizon_days": 20,
+ "lookback_days": 243,
+ "seed": 9893,
+ "result": "already through the stop"
+}

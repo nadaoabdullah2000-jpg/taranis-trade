@@ -1,0 +1,16 @@
+{
+ "ticker": "ASTS",
+ "data_symbol": "ASTS",
+ "plan": {
+  "side": "SHORT",
+  "entry": 59.4,
+  "current": 42.3,
+  "stop": 48.86,
+  "target": 47.64,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 83763,
+ "result": "target already reached"
+}

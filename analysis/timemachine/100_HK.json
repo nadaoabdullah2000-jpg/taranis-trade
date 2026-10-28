@@ -1,0 +1,16 @@
+{
+ "ticker": "100 HK",
+ "data_symbol": "0100.HK",
+ "plan": {
+  "side": "LONG",
+  "entry": 777.97,
+  "current": 180.2,
+  "stop": 745.52,
+  "target": 875.0,
+  "currency": "HKD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 197,
+ "seed": 70361,
+ "result": "already through the stop"
+}

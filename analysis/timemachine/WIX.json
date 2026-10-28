@@ -1,0 +1,16 @@
+{
+ "ticker": "WIX",
+ "data_symbol": "WIX",
+ "plan": {
+  "side": "SHORT",
+  "entry": 58.48,
+  "current": 78.56,
+  "stop": 64.86,
+  "target": 51.6,
+  "currency": "USD"
+ },
+ "horizon_days": 20,
+ "lookback_days": 250,
+ "seed": 91917,
+ "result": "already through the stop"
+}
