@@ -1,0 +1,8 @@
+# Runtime output written by the trader skills (plan.json, orders.json,
+# alerts.json, state/, ...). Only the config is tracked.
+trader/*
+!trader/config.json
+
+# Never commit credentials
+.env
+.env.*
